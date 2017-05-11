@@ -1,0 +1,38 @@
+
+<span id="a">MITS@Lucideus</span>:<span id="b">~</span><span id="c">$</span> cat CryptZilla.txt<br/><br/>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><pre class="txtpre">
+
+
+
+                                                                                                                                                                        
+                                                                                                                                                                        
+        CCCCCCCCCCCCC                                                                   tttt         ZZZZZZZZZZZZZZZZZZZ iiii llllllllllllll                        !!! 
+     CCC::::::::::::C                                                                ttt:::t         Z:::::::::::::::::Zi::::il:::::ll:::::l                       !!:!!
+   CC:::::::::::::::C                                                                t:::::t         Z:::::::::::::::::Z iiii l:::::ll:::::l                       !:::!
+  C:::::CCCCCCCC::::C                                                                t:::::t         Z:::ZZZZZZZZ:::::Z       l:::::ll:::::l                       !:::!
+ C:::::C       CCCCCrrrrr   rrrrrrrryyyyyyy           yyyyyyppppp   ppppppppp  ttttttt:::::ttttttt   ZZZZZ     Z:::::Z iiiiiii l::::l l::::l  aaaaaaaaaaaaa        !:::!
+C:::::C             r::::rrr:::::::::y:::::y         y:::::yp::::ppp:::::::::p t:::::::::::::::::t           Z:::::Z   i:::::i l::::l l::::l  a::::::::::::a       !:::!
+C:::::C             r:::::::::::::::::y:::::y       y:::::y p:::::::::::::::::pt:::::::::::::::::t          Z:::::Z     i::::i l::::l l::::l  aaaaaaaaa:::::a      !:::!
+C:::::C             rr::::::rrrrr::::::y:::::y     y:::::y  pp::::::ppppp::::::tttttt:::::::tttttt         Z:::::Z      i::::i l::::l l::::l           a::::a      !:::!
+C:::::C              r:::::r     r:::::ry:::::y   y:::::y    p:::::p     p:::::p     t:::::t              Z:::::Z       i::::i l::::l l::::l    aaaaaaa:::::a      !:::!
+C:::::C              r:::::r     rrrrrrr y:::::y y:::::y     p:::::p     p:::::p     t:::::t             Z:::::Z        i::::i l::::l l::::l  aa::::::::::::a      !:::!
+C:::::C              r:::::r              y:::::y:::::y      p:::::p     p:::::p     t:::::t            Z:::::Z         i::::i l::::l l::::l a::::aaaa::::::a      !!:!!
+ C:::::C       CCCCCCr:::::r               y:::::::::y       p:::::p    p::::::p     t:::::t    tttttZZZ:::::Z     ZZZZZi::::i l::::l l::::la::::a    a:::::a       !!! 
+  C:::::CCCCCCCC::::Cr:::::r                y:::::::y        p:::::ppppp:::::::p     t::::::tttt:::::Z::::::ZZZZZZZZ:::i::::::l::::::l::::::a::::a    a:::::a           
+   CC:::::::::::::::Cr:::::r                 y:::::y         p::::::::::::::::p      tt::::::::::::::Z:::::::::::::::::i::::::l::::::l::::::a:::::aaaa::::::a       !!! 
+     CCC::::::::::::Cr:::::r                y:::::y          p::::::::::::::pp         tt:::::::::::tZ:::::::::::::::::i::::::l::::::l::::::la::::::::::aa:::a     !!:!!
+        CCCCCCCCCCCCCrrrrrrr               y:::::y           p::::::pppppppp             ttttttttttt ZZZZZZZZZZZZZZZZZZiiiiiiilllllllllllllll aaaaaaaaaa  aaaa      !!! 
+                                          y:::::y            p:::::p                                                                                                    
+                                         y:::::y             p:::::p                                                                                                    
+                                        y:::::y             p:::::::p                                                                                                   
+                                       y:::::y              p:::::::p                                                                                                   
+                                      yyyyyyy               p:::::::p                                                                                                   
+                                                            ppppppppp                                                                                                   
+                                                                                                                                                                        
+
+
+
+    </pre><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p><a href="http://www.mitsgwalior.in">Madhav Institute of Technology and Science</a> and <a href="http://www.lucideus.com/">Lucideus Tech Pvt. Ltd.</a>brings you this CTF Lab that hosts Jeopardy-Style Capture the Flag (CTF) challenges. The levels can be navigated in the navbar. Levels are arranged in a increasing order of difficulty. Any level can only be unlocked by completing all the previous levels.</p><!-- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>We will judge you on the basis of max score attained and in case of a Tie, winner will be decided on the basis of submission time. Contest Stats can be accessed from the navbar.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+May The Code Be With You!<!-- slightdelayhere--><p> Press any key when ready.. :)</p>

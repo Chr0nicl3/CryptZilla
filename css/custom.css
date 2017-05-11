@@ -1,0 +1,103 @@
+body{
+	font-family: 'VT323', monospace;
+	background-color: #000080;
+}
+
+footer{
+	color:#000000;
+	font-size: 20px;
+}
+
+.navbar-custom{
+	background-color: #C0C0C0;
+	border: none;
+	height: 25px;
+	border-radius: 0;
+}
+
+.txtpre{
+	display: block;
+	background-color: #000000;
+	color: red;
+	text-align: left;
+	margin:0, 0;
+	padding: 0,0;
+	font-size: 2px;
+	font-weight: bold;
+	border:none;
+	border-radius: 0;
+}
+
+.current{
+	background-color: limegreen;
+	height: 50px;
+}
+
+.navbar-options{
+	font-size: 30px;
+	color: #000000;
+}
+
+.navbar-first{
+	color: red;
+}
+
+.outer{
+	padding-top: 5px;
+	margin: auto;
+	width: 910px;
+	height: 910px;
+	background-color: #008080;
+}
+
+.middle{
+	margin: auto;
+	background-color: #008080;
+	width: 900px;
+	height: 900px;
+	border-color: #ffffff;
+	border-style: double;
+	border-width: 10px;
+	text-align: justify;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+.txt{
+	vertical-align: middle;
+	margin: 20px;
+	background-color: #008080;
+	text-align: center;
+	font-size: 23px;
+	color: #ffffff;
+}
+
+.input{
+	color: #000;
+}
+
+.btn-custom{
+	background-color: #555555;
+	color: #000000;
+	width: 170px;
+	height: 50px;
+	font-size: 25px;
+	border-radius: 0;
+	border-color: #000000;
+	box-shadow: 180px, 180px, #000000;
+}
+
+.btn-custom:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.btn-custom:active{
+	background-color: #555555;
+	color: #000000;
+}
+
+.btn-custom:focus{
+	background-color: #555555;
+	color: #000000;
+}
